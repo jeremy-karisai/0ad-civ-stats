@@ -1,0 +1,36 @@
+civ_name,name,specific,hp,build_s,wood,stone,pop_bonus
+Achaemenids,House,Huvada,1200,50,150,0,10
+Achaemenids,House,House,1000,30,75,0,5
+Achaemenids,House,Inn,1200,30,75,0,10
+Achaemenids,Ice House,Yakhchal,800,60,100,100,0
+Achaemenids,Storehouse,Asiyah,800,40,100,0,0
+Achaemenids,House,Warehouse,2000,30,75,0,5
+Athenians,House,Oikos,1200,50,150,0,10
+Athenians,Storehouse,Apotheke,800,40,100,0,0
+Britons,House,Tegia,800,30,75,0,5
+Britons,Storehouse,Capanon,800,40,100,0,0
+Carthaginians,House,Bet,1200,50,150,0,10
+Carthaginians,Storehouse,Mahsabah,800,40,100,0,0
+Gauls,House,Tegia,800,30,75,0,5
+Gauls,Storehouse,Capanon,800,40,100,0,0
+Germans,House,Husa,1200,50,150,0,10
+Germans,Storehouse,Skattasfrithuz,800,40,100,0,0
+Han,Storehouse,Cangku,800,40,100,0,0
+Han,House,Min Ju,1200,50,150,0,10
+Iberians,House,Etxe,800,30,75,0,5
+Iberians,Storehouse,Ola,800,40,100,0,0
+Kushites,House,Pr,1200,50,150,0,10
+Kushites,Storehouse,Wdat,800,40,100,0,0
+Macedonians,House,Oikos,1200,50,150,0,10
+Macedonians,Storehouse,Apotheke,800,40,100,0,0
+Mauryans,Storehouse,Khalla,800,40,100,0,0
+Mauryans,House,Griham,800,30,75,0,5
+Ptolemies,House,Oikos,800,30,75,0,5
+Ptolemies,Lighthouse,Pharos,2000,200,0,200,0
+Ptolemies,Storehouse,Apotheke,800,40,100,0,0
+Romans,House,Domus,1200,50,150,0,10
+Romans,Storehouse,Receptaculum,800,40,100,0,0
+Seleucids,House,Oikos,1200,50,150,0,10
+Seleucids,Storehouse,Apotheke,800,40,100,0,0
+Spartans,House,Oikos,1200,50,150,0,10
+Spartans,Storehouse,Apotheke,800,40,100,0,0

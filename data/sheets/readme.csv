@@ -1,0 +1,12 @@
+0 A.D. civilization strengths — template-resolved workbook,
+Field,Detail
+,
+Source tree,gitea.wildfiregames.com/0ad/0ad main (sparse clone). Persians live as civ code 'achae' (Achaemenids). Germans present.
+Unit resolver,Official SimulTemplateEntity inheritance (mixins + add/mul). 499 unit rows in 0ad_units_resolved.csv.
+DPS,"sum(Hack+Pierce+Crush+Poison+Fire) * 1000 / RepeatTime_ms. No spread, accuracy, splash, forge, or formations."
+Buildings,Resolved house/CC/military/siege/dock/wall templates per civ.
+Gather,ResourceGatherer rates on civilians and a citizen-soldier proxy. Base rates are shared; civ eco is techs + unique workers.
+Techs,177 technology JSON files parsed. Civ-gated techs listed separately.
+Scorecard,"1-5 rebuilt from roster flags + outlier stats + house parent + crush/ship maxima. Still a model, but every cell has a numeric input on other sheets."
+Not included,"Forge upgrade stacks applied to units, aura range math, Petra AI, live win rates."
+How to use,Scorecard for radar axes. Roster / Citizen infantry / Siege for holes. Houses for boom speed. Civ bonuses + gated techs for identity.

@@ -1,0 +1,28 @@
+civ,civ_name,bonus,description,history
+achae,Achaemenids,Darics,Land Traders +25% trade gain.,
+achae,Achaemenids,Large Rams,Battering Rams +20% attack damage and +2 garrison capacity.,
+achae,Achaemenids,Times of War,The batch training time of units trained in Stables decreases each phase advance.,The Achaemenids were known for their large cavalry contingent.
+achae,Achaemenids,Satrapy Tribute,Upgrade the Winter Palace to receive a free trickle of a desired resource.,"The empire was divided into provinces, called Satrapies, that sent yearly tribute to the ruling Achaemenid dynasty in Persepolis as a form of tax."
+athen,Athenians,Silver Owls,Workers +10% metal gather rate per phase advance.,"The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl."
+athen,Athenians,Epilektoi Infantry,Elite Hoplites can promote to Champion Spearmen.,The best of the hoplites were chosen to form a group of elite professional soldiers.
+brit,Britons,Deas Celtica,Druids increase attack rates of soldiers near them by 5%.,Celtic religion and druidry inspired their warlike mindset.
+cart,Carthaginians,Trademasters,Trade ships are available in the Village Phase.,The Carthaginians were broadly known for their extensive trade over the Mediterranean Sea.
+cart,Carthaginians,Mining Economy,Stone mining technologies are free and instant.,"The Carthaginian economy was centered around mining, with stone comprising much of Carthage's structures."
+cart,Carthaginians,Numidian Cavalry,Cavalry Javelineers +10% walk speed.,"The Numidian cavalry's horses, ancestors of the Berber horse, were small compared with other horses of the era, and were well adapted for faster movement over long distances."
+gaul,Gauls,Deas Celtica,Druids increase attack rates of soldiers near them by 5%.,Celtic religion and druidry inspired their warlike mindset.
+germ,Germans,Seeresses,A unique Champion Healer unit is available in City Phase.,Seeresses accompanied the Germanic armies and envisioned prophecies of victory from sacrifices.
+han,Han,(none listed in civ JSON),,
+iber,Iberians,Starting Walls,Iberians start with City Walls around their base on most maps.,"With exception to alluvial plains and river valleys, stone is abundant in the Iberian Peninsula and was greatly used in construction of structures of all types."
+iber,Iberians,Massive Towers,"Stone Towers -50% wood cost, +150% stone cost, +33% build time, +60% health, +3 garrison capacity, and +1 default arrow count.",
+kush,Kushites,Large Rams,Battering Rams +20% attack damage and +2 garrison capacity.,
+mace,Macedonians,(none listed in civ JSON),,
+maur,Mauryans,(none listed in civ JSON),,
+ptol,Ptolemies,Polybolos,Bolt Shooters -45% attack damage and -50% attack time.,
+ptol,Ptolemies,Nile Delta,The three farming technologies are available in Village Phase.,"The Nile Delta is a region where the Nile River divides into several branches to flow into the Mediterranean Sea, in northern Egypt."
+rome,Romans,Fertility,Women train from houses without the need to research Fertility Festival.,Rome was one of the most populous cities in the ancient world.
+rome,Romans,Testudo Formation,Roman Legionaries can form a Testudo.,"The Romans commonly used the Testudo or turtle formation for defense: Legionaries were formed into hollow squares with twelve men on each side, standing so close together that their shields overlapped like fish scales."
+rome,Romans,Centurions,Promote Elite Rank Spearmen or Swordsmen to Champion Centurions.,"Centurions were the officers responsible for a centuria, a group of 100 soldiers."
+sele,Seleucids,(none listed in civ JSON),,
+spart,Spartans,Ritualistic Exercise,Civilians +40% health and +50% melee attack hack damage.,
+spart,Spartans,Laws of Lycurgus,"Champion Hoplites are available in village phase, and can promote to highly experienced Olympic Champions.","Under the constitution written by the mythical lawgiver Lycurgus, society was shaped around the training and development of superior warriors in defense of the Spartan state."
+spart,Spartans,Agoge,Champion Hoplites -10% attack time.,The institution of the Agoge was established to rigorously train Spartan boys from the age of 6 to be fearsome warriors.
