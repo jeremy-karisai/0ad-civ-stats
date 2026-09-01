@@ -43,6 +43,17 @@ TITLES = {
 }
 
 
+def load_sheet(src, key):
+    fp = src / f"{key}.csv"
+    p1 = src / f"{key}_part1.csv"
+    p2 = src / f"{key}_part2.csv"
+    if fp.exists():
+        return pd.read_csv(fp)
+    if p1.exists() and p2.exists():
+        return pd.concat([pd.read_csv(p1), pd.read_csv(p2)], ignore_index=True)
+    return None
+
+
 def main():
     root = Path(__file__).resolve().parents[1]
     src = root / "data" / "sheets"
@@ -50,10 +61,9 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
     with pd.ExcelWriter(out, engine="openpyxl") as writer:
         for key in SHEETS:
-            fp = src / f"{key}.csv"
-            if not fp.exists():
+            df = load_sheet(src, key)
+            if df is None:
                 continue
-            df = pd.read_csv(fp)
             name = TITLES[key]
             df.to_excel(writer, sheet_name=name[:31], index=False)
             ws = writer.book[name[:31]]
