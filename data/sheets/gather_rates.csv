@@ -1,0 +1,73 @@
+civ,civ_name,name,template,hp,train_s,fruit,grain,meat,wood,stone,metal
+achae,Achaemenids,Mesopotamian Woman,units/achae/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+achae,Achaemenids,Mesopotamian Woman,units/achae/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+achae,Achaemenids,Persian Laborer,units/achae/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+achae,Achaemenids,Persian Laborer,units/achae/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+achae,Achaemenids,Shield Bearer,units/achae/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+athen,Athenians,Athenian Artisan,units/athen/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+athen,Athenians,Athenian Artisan,units/athen/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+athen,Athenians,Athenian Hoplite,units/athen/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+athen,Athenians,Athenian Woman,units/athen/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+athen,Athenians,Athenian Woman,units/athen/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+athen,Athenians,Slave,units/athen/support_slave,100,15,0.5,0.35,1,1,1,1
+brit,Britons,Briton Countryman,units/brit/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+brit,Britons,Briton Countryman,units/brit/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+brit,Britons,Celtic Spearman,units/brit/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+brit,Britons,Celtic Woman,units/brit/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+brit,Britons,Celtic Woman,units/brit/support_female_citizen_house,25,35,1,0.5,1,0.7,0.35,0.35
+cart,Carthaginians,Carthaginian Artisan,units/cart/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+cart,Carthaginians,Carthaginian Artisan,units/cart/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+cart,Carthaginians,Carthaginian Woman,units/cart/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+cart,Carthaginians,Carthaginian Woman,units/cart/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+cart,Carthaginians,Libyan Spearman,units/cart/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+gaul,Gauls,Celtic Woman,units/gaul/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+gaul,Gauls,Celtic Woman,units/gaul/support_female_citizen_house,25,35,1,0.5,1,0.7,0.35,0.35
+gaul,Gauls,Gallic Laborer,units/gaul/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+gaul,Gauls,Gallic Laborer,units/gaul/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+gaul,Gauls,Spearman,units/gaul/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+germ,Germans,Cimbrian Spearman,units/germ/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+germ,Germans,Germanic Worker,units/germ/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+germ,Germans,Germanic Worker,units/germ/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+han,Han,Female Citizen,units/han/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+han,Han,Female Citizen,units/han/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+han,Han,Han Farmer,units/han/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+han,Han,Han Farmer,units/han/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+han,Han,Spearman,units/han/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+iber,Iberians,Iberian Townsperson,units/iber/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+iber,Iberians,Iberian Townsperson,units/iber/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+iber,Iberians,Iberian Woman,units/iber/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+iber,Iberians,Iberian Woman,units/iber/support_female_citizen_house,25,35,1,0.5,1,0.7,0.35,0.35
+iber,Iberians,Spearman,units/iber/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+kush,Kushites,Kushite Laborer,units/kush/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+kush,Kushites,Kushite Laborer,units/kush/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+kush,Kushites,Kushite Woman,units/kush/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+kush,Kushites,Kushite Woman,units/kush/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+kush,Kushites,Nubian Spearman,units/kush/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+mace,Macedonians,Macedonian Laborer,units/mace/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+mace,Macedonians,Macedonian Laborer,units/mace/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+mace,Macedonians,Macedonian Woman,units/mace/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+mace,Macedonians,Macedonian Woman,units/mace/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+maur,Mauryans,Bamboo Spearman,units/maur/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+maur,Mauryans,Indian Laborer,units/maur/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+maur,Mauryans,Indian Laborer,units/maur/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+maur,Mauryans,Indian Woman,units/maur/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+maur,Mauryans,Indian Woman,units/maur/support_female_citizen_house,25,35,1,0.5,1,0.7,0.35,0.35
+ptol,Ptolemies,Egyptian Laborer,units/ptol/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+ptol,Ptolemies,Egyptian Laborer,units/ptol/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+ptol,Ptolemies,Egyptian Woman,units/ptol/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+ptol,Ptolemies,Egyptian Woman,units/ptol/support_female_citizen_house,25,35,1,0.5,1,0.7,0.35,0.35
+rome,Romans,Plebeian,units/rome/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+rome,Romans,Plebeian,units/rome/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+rome,Romans,Roman Woman,units/rome/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+rome,Romans,Roman Woman,units/rome/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+rome,Romans,Veteran Spearman,units/rome/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+sele,Seleucids,Militia Thureos Spearman,units/sele/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+sele,Seleucids,Syrian Laborer,units/sele/support_civilian,25,8,1,0.5,1,0.7,0.35,0.35
+sele,Seleucids,Syrian Laborer,units/sele/support_civilian_house,25,30,1,0.5,1,0.7,0.35,0.35
+sele,Seleucids,Syrian Woman,units/sele/support_female_citizen,25,8,1,0.5,1,0.7,0.35,0.35
+sele,Seleucids,Syrian Woman,units/sele/support_female_citizen_house,25,30,1,0.5,1,0.7,0.35,0.35
+spart,Spartans,Helot,units/spart/support_civilian,35,8,1,0.5,1,0.7,0.35,0.35
+spart,Spartans,Helot,units/spart/support_civilian_house,35,30,1,0.5,1,0.7,0.35,0.35
+spart,Spartans,Perioikoi Hoplite,units/spart/infantry_spearman_b,100,10,0.5,0.25,1,0.75,0.5,0.5
+spart,Spartans,Spartan Woman,units/spart/support_female_citizen,35,8,1,0.5,1,0.7,0.35,0.35
+spart,Spartans,Spartan Woman,units/spart/support_female_citizen_house,35,30,1,0.5,1,0.7,0.35,0.35
