@@ -2,11 +2,20 @@
 
 Template-resolved unit, building, gather, and technology data for the fifteen playable civilizations in current [0 A.D.](https://play0ad.com/) `main`, plus a 1–5 scorecard rebuilt from those numbers instead of forum tier lists.
 
-**Workbook:** [`data/0AD_civ_strengths.xlsx`](data/0AD_civ_strengths.xlsx)
+**Rebuild the workbook** from the committed sheets:
+
+```bash
+python3 -m pip install -r requirements.txt
+python3 scripts/csv_to_xlsx.py   # writes data/0AD_civ_strengths.xlsx
+```
+
+`csv_to_xlsx.py` reads `data/sheets/*.csv`, or `*.csv.gz.b64` when a raw CSV is packed (all_units, buildings, all_techs).
 
 **Sheet CSVs:** [`data/sheets/`](data/sheets/)
 
 **Repo:** https://github.com/jeremy-karisai/0ad-civ-stats
+
+The binary `.xlsx` is not stored in git (GitHub contents API is text-oriented). A ready-made copy is also in [Google Drive](https://docs.google.com/spreadsheets/d/1C5JfnjCoz8MNxMP7V6SZsDX4Dao9PGth/edit?usp=drivesdk).
 
 This is a fan analysis of Wildfire Games' free, open-source RTS. It is not an official WFG release.
 
@@ -97,7 +106,7 @@ python3 scripts/build_0ad_workbook.py
 
 `build_0ad_workbook.py` expects the official `scriptlib.SimulTemplateEntity` on `sys.path` and writes `data/0AD_civ_strengths.xlsx`.
 
-To rebuild a workbook from the committed sheet CSVs only:
+To rebuild a workbook from the committed sheet CSVs only (no 0 A.D. checkout):
 
 ```bash
 python3 scripts/csv_to_xlsx.py

@@ -1,0 +1,96 @@
+civ_name,role,name,hp,dps,dmg_crush,range,total_res,train_s
+Achaemenids,siege,Assyrian Siege Ram,400,120,180,6.5,450,30
+Achaemenids,siege,Ramming Ship,800,123.333,50,12,175,18
+Achaemenids,champion_elephant,Indian War Elephant,1100,55,49.5,5,550,39.6
+Achaemenids,citizen_cavalry,Hyrcanian Cavalry,160,13.5,3.5,4,150,15
+Achaemenids,citizen_cavalry,Hyrcanian Cavalry,160,13.5,3.5,4,150,15
+Achaemenids,citizen_cavalry,Hyrcanian Cavalry,160,13.5,3.5,4,150,15
+Achaemenids,citizen_cavalry,Hyrcanian Cavalry,160,13.5,3.5,4,150,15
+Athenians,siege,Siege Catapult,375,32.857,230,85,650,25
+Athenians,siege,Siege Catapult,375,32.857,230,85,650,25
+Athenians,siege,Battering Ram,400,100,150,6.5,450,30
+Athenians,siege,Ramming Ship,800,123.333,50,12,175,18
+Athenians,citizen_infantry,Athenian Slinger Militia,50,8.4,1.1,45,100,10
+Athenians,siege,Bolt Shooter,200,40,0,80,500,20
+Athenians,siege,Bolt Shooter,200,40,0,80,500,20
+Britons,siege,Battering Ram,400,100,150,6.5,450,30
+Britons,citizen_infantry,Celtic Slinger,50,8.4,1.1,45,100,10
+Carthaginians,siege,Siege Catapult,375,32.857,230,85,650,25
+Carthaginians,siege,Siege Catapult,375,32.857,230,85,650,25
+Carthaginians,siege,Siege Ship,1600,55,220,80,400,28
+Carthaginians,siege,Battering Ram,400,100,150,6.5,450,30
+Carthaginians,hero,Hannibal Barca,1500,100,90,5,1000,50
+Carthaginians,siege,Ramming Ship,800,123.333,50,12,175,18
+Carthaginians,champion_elephant,North African War Elephant,900,45,40.5,5,450,32.4
+Carthaginians,citizen_infantry,Balearic Slinger,50,9.108,1.3915,50,75,7
+Carthaginians,siege,Bolt Shooter,200,40,0,80,500,20
+Carthaginians,siege,Bolt Shooter,200,40,0,80,500,20
+Gauls,siege,Battering Ram,400,100,150,6.5,450,30
+Gauls,citizen_infantry,Slinger,50,8.4,1.1,45,100,10
+Germans,siege,Covered Gate Smasher,400,100,150,6.5,450,30
+Germans,siege,Log Ram,300,60,120,7.5,275,20
+Germans,champion_infantry,Cimbrian Clubman,100,12,7,3,100,10
+Germans,champion_infantry,Cimbri Raider,160,24,6,3,220,15
+Germans,citizen_infantry,Celto-Germanic Slinger,50,8.4,1.1,45,100,10
+Han,siege,Mangonel,375,32.857,230,85,650,25
+Han,siege,Mangonel,375,32.857,230,85,650,25
+Han,siege,Siege Ship,1600,55,220,80,400,28
+Han,siege,Battering Ram,400,100,150,6.5,450,30
+Han,hero,Hero Infantry Crossbowman,1000,21,3,60,550,50
+Han,hero,Hero Cavalry Crossbowman,1500,16,3,55,910,60
+Han,hero,Hero Cavalry Crossbowman,1200,16,3,55,750,50
+Han,siege,Siege Tower,500,5,2.5,55,800,40
+Han,siege,Bolt Shooter,200,40,0,80,500,20
+Iberians,siege,Battering Ram,400,100,150,6.5,450,30
+Iberians,citizen_infantry,Slinger,50,8.4,1.1,45,100,10
+Kushites,siege,Battering Ram,400,120,180,6.5,450,30
+Kushites,hero,Arakamani,1500,100,90,5,1000,50
+Kushites,champion_elephant,Meroitic War Elephant,900,45,40.5,5,450,32.4
+Kushites,citizen_infantry,Noba Maceman,100,13.2,7.7,3,60,7
+Kushites,champion_infantry,Meroitic Temple Guard,200,24,6,3,220,15
+Kushites,siege,Kushite Siege Tower,500,5,2.5,55,800,40
+Macedonians,siege,Siege Catapult,375,32.857,230,85,650,25
+Macedonians,siege,Siege Catapult,375,32.857,230,85,650,25
+Macedonians,siege,Battering Ram,400,100,150,6.5,450,30
+Macedonians,siege,Ramming Ship,800,123.333,50,12,175,18
+Macedonians,siege,Siege Tower,500,5,2.5,55,800,40
+Macedonians,citizen_infantry,Rhodian Slinger,50,9.24,1.21,45,60,7
+Macedonians,siege,Bolt Shooter,200,40,0,80,500,20
+Macedonians,siege,Bolt Shooter,200,40,0,80,500,20
+Mauryans,siege,Battering Ram,400,100,150,6.5,450,30
+Mauryans,hero,Chandragupta Maurya,1500,100,90,5,1000,50
+Mauryans,champion_elephant,Indian War Elephant,1100,55,49.5,5,550,39.6
+Mauryans,champion_infantry,Warrior,200,24,14,3,220,20
+Ptolemies,siege,Siege Catapult,375,32.857,230,85,650,25
+Ptolemies,siege,Siege Catapult,375,32.857,230,85,650,25
+Ptolemies,siege,Juggernaut,4000,55,220,80,1200,60
+Ptolemies,siege,Siege Ship,1600,55,220,80,400,28
+Ptolemies,siege,Battering Ram,400,100,150,6.5,450,30
+Ptolemies,hero,Ptolemy I,1500,100,90,5,1000,50
+Ptolemies,siege,Ramming Ship,800,123.333,50,12,175,18
+Ptolemies,champion_elephant,Towered War Elephant,900,45,40.5,5,450,32.4
+Ptolemies,siege,Siege Tower,500,5,2.5,55,800,40
+Ptolemies,citizen_infantry,Judean Slinger,50,8.4,1.1,45,100,10
+Ptolemies,siege,Bolt Shooter,200,44,0,80,500,20
+Ptolemies,siege,Bolt Shooter,200,44,0,80,500,20
+Romans,siege,Siege Catapult,375,32.857,230,85,650,25
+Romans,siege,Siege Catapult,375,32.857,230,85,650,25
+Romans,siege,Siege Ship,1600,55,220,80,400,28
+Romans,siege,Battering Ram,400,100,150,6.5,450,30
+Romans,siege,Ramming Ship,800,123.333,50,12,175,18
+Romans,siege,Siege Catapult,250,2,10,60,450,25
+Romans,siege,Siege Catapult,250,2,10,60,450,25
+Romans,siege,Bolt Shooter,200,40,0,80,500,20
+Romans,siege,Bolt Shooter,200,40,0,80,500,20
+Seleucids,siege,Siege Catapult,375,32.857,230,85,650,25
+Seleucids,siege,Siege Catapult,375,32.857,230,85,650,25
+Seleucids,siege,Siege Ship,1600,55,220,80,400,28
+Seleucids,siege,Battering Ram,400,100,150,6.5,450,30
+Seleucids,hero,Seleucus I,1500,100,90,5,1000,50
+Seleucids,siege,Ramming Ship,800,123.333,50,12,175,18
+Seleucids,champion_elephant,Armored War Elephant,1100,55,49.5,5,550,39.6
+Seleucids,siege,Siege Tower,500,5,2.5,55,800,40
+Spartans,siege,Battering Ram,400,100,150,6.5,450,30
+Spartans,siege,Ramming Ship,800,123.333,50,12,175,18
+Spartans,siege,Bolt Shooter,200,40,0,80,500,20
+Spartans,siege,Bolt Shooter,200,40,0,80,500,20
