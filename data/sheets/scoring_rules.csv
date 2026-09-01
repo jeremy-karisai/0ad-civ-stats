@@ -1,0 +1,12 @@
+axis,rule
+Early,Start at 3. +1.5 war dog. +1.5 Clubman/Log Ram. +0.3 slinger. +0.2 small 30s house. Cap 5.
+Eco,"Start at 3. +1 Maurya/German mobile dropsite. +1 Ptolemy Village farm techs. +0.5 Han ministers / Achaemenid trade. House +10 pop is convenience, not a huge bump."
+Infantry,"Start at 3. +1 if champ inf HP>=200, +0.5 if >=230, +0.5 if champ DPS>=14. Forced 5 for Sparta and Rome (Village champs / swords + reforms)."
+Cavalry,Start at 3. +1 if any cav HP>=240. +0.5 Achaemenid/Gaul/Carthage roster depth. 1 if no cavalry role.
+Ranged,"Start at 2. +0.7 sling, +0.5 jav, +1 bow, +1.2 crossbow, +0.5 if max range>=60, +0.3 Archery Tradition civs (kush/maur/achae)."
+Siege,Land siege only (ramming ships excluded). 3 ram-only. 4 ram + bolt/tower. 5 catapult/onager or Rome/German/Macedon. Briton/Gaul/Iberian forced 3. Note: current main gives Athens a ram + catapult — older no-ram guides are stale.
+Navy,2 default/Celtic/Sparta/Maurya. 3 generic 1000 HP arrow ship. 4 Rome. 5 Carthage/Ptolemy/Athens (unique dock/naval techs).
+Late,Start at 3. +0.7 high champ HP or elephants. +0.8 Carthage/Rome/Achaemenid/Maurya.
+Defense,Start at 3. +1 wall HP>=3000. +0.3 big house. Forced 5 Iberia (prefab walls in design) and Carthage. 2 Sparta.
+Flex,Start at 3. + up to 1.5 from unique unit name count. Forced 5 Carthage/Seleucid/Ptolemy. Forced 1 Sparta.
+Honesty,Eco/Defense/Navy still mix design bonuses with stats. Infantry/Ranged/Siege/Early are the axes now actually sitting on XML numbers.

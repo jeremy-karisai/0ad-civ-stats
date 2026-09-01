@@ -1,0 +1,16 @@
+civ_name,Slinger,Javelin,Archer,Crossbow,Spear,Pike,Sword,Champion_inf,Champion_cav,Elephant,Dog,Crush_unit,Siege_role,Warship
+Achaemenids,0,1,1,0,1,0,0,1,1,1,0,1,1,1
+Athenians,1,1,1,0,1,0,1,1,0,0,0,1,1,1
+Britons,1,1,0,0,1,0,1,1,1,0,1,1,1,1
+Carthaginians,1,1,1,0,1,1,1,1,1,1,0,1,1,1
+Gauls,1,1,0,0,1,0,1,1,1,0,0,1,1,1
+Germans,1,1,0,0,1,0,1,1,1,0,0,1,1,1
+Han,0,0,1,1,1,1,1,1,1,0,0,1,1,1
+Iberians,1,1,0,0,1,0,1,1,1,0,0,1,1,1
+Kushites,0,1,1,0,1,1,1,1,1,1,0,1,1,1
+Macedonians,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+Mauryans,0,1,1,0,1,0,1,1,1,1,0,1,1,1
+Ptolemies,1,1,1,0,1,1,1,1,1,1,0,1,1,1
+Romans,0,1,0,0,1,0,1,1,1,0,0,1,1,1
+Seleucids,0,1,1,0,1,1,1,1,1,1,0,1,1,1
+Spartans,0,1,0,0,1,1,1,1,0,0,0,1,1,1

@@ -1,0 +1,16 @@
+civ_name,Early,Eco,Infantry,Cavalry,Ranged,Siege,Navy,Late,Defense,Flex,Avg,house_pop,house_s,house_hp,max_crush,max_ship_hp,max_champ_hp,max_range,n_units,note
+Achaemenids,3,4,4,4,4,3,3,4,4,3,3.6,10,50,1200,180,1000,200,60,28,house +10 pop / 50s / 1200 HP; max crush 180; ship HP 1000; champ inf HP 200; range 60m; units 28
+Athenians,3,3,4,3,5,5,5,4,4,3,3.9,10,50,1200,230,1000,200,60,27,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 200; range 60m; units 27
+Britons,5,3,4,4,3,3,2,4,4,3,3.5,5,30,800,150,1200,200,45,21,house +5 pop / 30s / 800 HP; max crush 150; ship HP 1200; champ inf HP 200; range 45m; units 21
+Carthaginians,3,3,4,4,5,5,5,4,5,5,4.3,10,50,1200,230,1000,200,60,31,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 200; range 60m; units 31
+Gauls,4,3,4,4,3,3,2,4,4,3,3.4,5,30,800,150,1200,200,45,22,house +5 pop / 30s / 800 HP; max crush 150; ship HP 1200; champ inf HP 200; range 45m; units 22
+Germans,5,4,4,4,3,5,3,4,4,3,3.9,10,50,1200,150,1000,200,45,24,house +10 pop / 50s / 1200 HP; max crush 150; ship HP 1000; champ inf HP 200; range 45m; units 24
+Han,3,4,4,4,5,5,3,4,4,4,4,10,50,1200,230,1000,200,60,34,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 200; range 60m; units 34
+Iberians,4,3,4,4,3,3,3,4,5,3,3.6,5,30,800,150,1200,200,45,21,house +5 pop / 30s / 800 HP; max crush 150; ship HP 1200; champ inf HP 200; range 45m; units 21
+Kushites,3,3,4,4,4,4,3,4,4,3,3.6,10,50,1200,180,1000,200,60,28,house +10 pop / 50s / 1200 HP; max crush 180; ship HP 1000; champ inf HP 200; range 60m; units 28
+Macedonians,3,3,4,4,5,5,3,4,4,3,3.8,10,50,1200,230,1000,220,60,28,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 220; range 60m; units 28
+Mauryans,3,4,4,4,4,3,2,4,4,3,3.5,5,30,800,150,1200,200,60,25,house +5 pop / 30s / 800 HP; max crush 150; ship HP 1200; champ inf HP 200; range 60m; units 25
+Ptolemies,4,4,4,4,5,5,5,4,4,5,4.4,5,30,800,230,1000,200,60,30,house +5 pop / 30s / 800 HP; max crush 230; ship HP 1000; champ inf HP 200; range 60m; units 30
+Romans,3,3,5,4,2,5,4,4,4,4,3.8,10,50,1200,230,1000,200,30,33,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 200; range 30m; units 33
+Seleucids,3,3,4,4,4,5,3,4,4,5,3.9,10,50,1200,230,1000,200,60,29,house +10 pop / 50s / 1200 HP; max crush 230; ship HP 1000; champ inf HP 200; range 60m; units 29
+Spartans,3,3,5,3,2,4,2,4,2,1,2.9,10,50,1200,150,1000,240,30,23,house +10 pop / 50s / 1200 HP; max crush 150; ship HP 1000; champ inf HP 240; range 30m; units 23
