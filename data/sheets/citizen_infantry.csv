@@ -1,0 +1,68 @@
+civ_name,name,hp,dps,range,atk_kind,food,wood,metal,total_res,dps_per_100res,train_s,bonuses
+Achaemenids,Shield Bearer,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Achaemenids,Lydian Auxiliary,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Achaemenids,Sogdian Archer,50,5.76,60,Ranged,50,50,0,100,5.76,10,
+Athenians,Athenian Hoplite,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Athenians,Thracian Peltast,50,11.733,30,Ranged,0,0,60,60,19.555,7,
+Athenians,Athenian Slinger Militia,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Athenians,Cretan Mercenary Archer,50,6.336,60,Ranged,0,0,60,60,10.56,7,
+Britons,Celtic Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Britons,Infantry Javelineer,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Britons,Celtic Slinger,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Carthaginians,Gallic Mercenary Swordsman,100,11.733,3,Melee,0,0,60,60,19.555,7,
+Carthaginians,Samnite Swordsman,100,11.733,3,Melee,0,0,60,60,19.555,7,
+Carthaginians,Samnite Spearman,100,9.35,4,Melee,0,0,60,60,15.583,7,BonusCavMelee:2.5x vs Cavalry
+Carthaginians,Libyan Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Carthaginians,Iberian Mercenary Skirmisher,50,11.733,30,Ranged,0,0,80,80,14.666,7,
+Carthaginians,Balearic Slinger,50,9.108,50,Ranged,0,0,75,75,12.144,7,
+Carthaginians,Mauritanian Archer,50,5.76,60,Ranged,50,50,0,100,5.76,10,
+Gauls,Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Gauls,Infantry Javelineer,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Gauls,Slinger,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Germans,Teutonic Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Germans,Cimbrian Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Germans,Ambronian Skirmisher,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Germans,Celto-Germanic Slinger,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Han,Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Han,Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Han,Halberdier,100,6.75,8,Melee,50,50,0,100,6.75,10,BonusCavMelee:2.5x vs Cavalry
+Han,Infantry Crossbowman,50,8,45,Ranged,50,50,0,100,8,10,
+Han,Archer,50,5.76,60,Ranged,50,50,0,100,5.76,10,
+Iberians,Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Iberians,Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Iberians,Infantry Javelineer,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Iberians,Slinger,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Kushites,Noba Maceman,100,13.2,3,Melee,0,0,60,60,22,7,
+Kushites,Meroitic Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Kushites,Nubian Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Kushites,Meroitic Pikeman,100,5.75,8,Melee,50,50,0,100,5.75,10,BonusCavMelee:2.5x vs Cavalry
+Kushites,Noba Skirmisher,50,11.733,30,Ranged,0,0,60,60,19.555,7,
+Kushites,Nubian Archer,50,5.76,60,Ranged,50,50,0,100,5.76,10,
+Macedonians,Foot Companion,100,5.75,8,Melee,50,50,0,100,5.75,10,BonusCavMelee:2.5x vs Cavalry
+Macedonians,Agrianian Peltast,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Macedonians,Rhodian Slinger,50,9.24,45,Ranged,0,0,60,60,15.4,7,
+Macedonians,Cretan Mercenary Archer,50,6.336,60,Ranged,0,0,60,60,10.56,7,
+Mauryans,Indian Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Mauryans,Bamboo Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Mauryans,Longbowman,50,5.76,60,Ranged,50,50,0,100,5.76,10,
+Ptolemies,Gallic Mercenary Swordsman,100,11.733,3,Melee,0,0,60,60,19.555,7,
+Ptolemies,Mercenary Thureos Spearman,100,9.35,4,Melee,0,0,60,60,15.583,7,BonusCavMelee:2.5x vs Cavalry
+Ptolemies,Egyptian Pikeman,100,5.75,8,Melee,50,50,0,100,5.75,10,BonusCavMelee:2.5x vs Cavalry
+Ptolemies,Mercenary Thureos Skirmisher,50,11.733,30,Ranged,0,0,60,60,19.555,7,
+Ptolemies,Judean Slinger,50,8.4,45,Ranged,50,20,0,100,8.4,10,
+Ptolemies,Cretan Mercenary Archer,50,6.336,60,Ranged,0,0,60,60,10.56,7,
+Romans,Marian Legionary,100,10.667,3,Melee,50,50,15,115,9.276,10,
+Romans,Roman Swordsman,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Romans,Slave,100,10.667,3,Melee,50,40,10,100,10.667,10,
+Romans,Veteran Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Romans,Levy Auxiliary Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Romans,Legionary Skirmisher,50,10.667,30,Ranged,50,50,15,115,9.276,10,
+Romans,Roman Skirmisher,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Seleucids,Thracian Mercenary Swordsman,100,11.733,3,Melee,0,0,60,60,19.555,7,
+Seleucids,Militia Thureos Spearman,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Seleucids,Phalangite,100,5.75,8,Melee,50,50,0,100,5.75,10,BonusCavMelee:2.5x vs Cavalry
+Seleucids,Arab Javelineer,50,10.667,30,Ranged,50,50,0,100,10.667,10,
+Seleucids,Syrian Archer,50,6.336,60,Ranged,0,0,60,60,10.56,7,
+Spartans,Perioikoi Hoplite,100,8.5,4,Melee,50,50,0,100,8.5,10,BonusCavMelee:2.5x vs Cavalry
+Spartans,Neodamodes Hoplite,100,8.5,4,Melee,30,0,20,50,17,12,BonusCavMelee:2.5x vs Cavalry
+Spartans,Helot Skirmisher,50,10.667,30,Ranged,50,50,0,100,10.667,10,

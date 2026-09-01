@@ -1,0 +1,69 @@
+civ_name,name,hp,dps,range,dmg_hack,dmg_pierce,dmg_crush,total_res,train_s
+Achaemenids,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Achaemenids,Scout Ship,500,14,37,0,28,0,100,12
+Achaemenids,Ionian Trade Ship,240,0,0,0,0,0,100,20
+Achaemenids,Fishing Boat,220,10,5,10,0,0,50,15
+Athenians,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Athenians,Scout Ship,500,14,37,0,28,0,100,12
+Athenians,Merchantman,240,0,0,0,0,0,100,20
+Athenians,Fishing Boat,220,10,5,10,0,0,50,15
+Britons,Arrow Ship,1200,32,56.25,0,32,0,200,24
+Britons,Fire Ship,800,18.75,15,0,0,0,150,18
+Britons,Fire Ship,800,18.75,15,0,0,0,150,18
+Britons,Scout Ship,500,14,37,0,28,0,100,12
+Britons,Merchantman,240,0,0,0,0,0,100,20
+Britons,Fishing Boat,220,10,5,10,0,0,50,15
+Carthaginians,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Carthaginians,Scout Ship,500,14,37,0,28,0,100,12
+Carthaginians,Merchantman,240,0,0,0,0,0,100,20
+Carthaginians,Fishing Boat,220,10,5,10,0,0,50,15
+Gauls,Arrow Ship,1200,32,56.25,0,32,0,200,24
+Gauls,Fire Ship,800,18.75,15,0,0,0,150,18
+Gauls,Fire Ship,800,18.75,15,0,0,0,150,18
+Gauls,Scout Ship,500,14,37,0,28,0,100,12
+Gauls,Merchantman,240,0,0,0,0,0,100,20
+Gauls,Fishing Boat,220,10,5,10,0,0,50,15
+Germans,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Germans,Germanic Fire Ship,800,18.75,15,0,0,0,150,18
+Germans,Germanic Fire Ship,800,18.75,15,0,0,0,150,18
+Germans,Scout Ship,500,14,37,0,28,0,100,12
+Germans,Rhineland Merchantman,240,0,0,0,0,0,100,20
+Germans,Germanic Fisherman,220,10,5,10,0,0,50,15
+Han,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Han,Scout Ship,500,14,37,0,28,0,100,12
+Han,Merchantman,240,0,0,0,0,0,100,20
+Han,Fishing Boat,220,10,5,10,0,0,50,15
+Iberians,Arrow Ship,1200,32,56.25,0,32,0,200,40
+Iberians,Fire Ship,800,18.75,15,0,0,0,150,18
+Iberians,Fire Ship,800,18.75,15,0,0,0,150,18
+Iberians,Scout Ship,500,14,37,0,28,0,100,12
+Iberians,Merchantman,240,0,0,0,0,0,100,20
+Iberians,Fishing Boat,220,10,5,10,0,0,50,15
+Kushites,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Kushites,Scout Ship,500,14,37,0,28,0,100,12
+Kushites,Nile Trading Barge,240,0,0,0,0,0,100,20
+Kushites,Fishing Boat,220,10,5,10,0,0,50,15
+Macedonians,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Macedonians,Scout Ship,500,14,37,0,28,0,100,12
+Macedonians,Merchantman,240,0,0,0,0,0,100,20
+Macedonians,Fishing Boat,220,10,5,10,0,0,50,15
+Mauryans,Arrow Ship,1200,32,56.25,0,32,0,200,40
+Mauryans,Scout Ship,500,14,37,0,28,0,100,12
+Mauryans,Trading Ship,240,0,0,0,0,0,100,20
+Mauryans,Fisherman,220,10,5,10,0,0,50,15
+Ptolemies,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Ptolemies,Scout Ship,500,14,37,0,28,0,100,12
+Ptolemies,Merchantman,240,0,0,0,0,0,100,20
+Ptolemies,Fishing Boat,220,10,5,10,0,0,50,15
+Romans,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Romans,Scout Ship,500,14,37,0,28,0,100,12
+Romans,Merchantman,240,0,0,0,0,0,100,20
+Romans,Fishing Boat,220,10,5,10,0,0,50,15
+Seleucids,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Seleucids,Scout Ship,500,14,37,0,28,0,100,12
+Seleucids,Merchantman,240,0,0,0,0,0,100,20
+Seleucids,Fishing Boat,220,10,5,10,0,0,50,15
+Spartans,Arrow Ship,1000,32,56.25,0,32,0,200,24
+Spartans,Scout Ship,500,14,37,0,28,0,100,12
+Spartans,Merchantman,240,0,0,0,0,0,100,20
+Spartans,Fishing Boat,220,10,5,10,0,0,50,15
