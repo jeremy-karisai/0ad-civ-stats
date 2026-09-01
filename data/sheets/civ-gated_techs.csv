@@ -1,0 +1,77 @@
+name,civs,tooltip,affects,food,wood,metal,research_s
+Achaemenid Architecture,achae,"Structures +25% health and capture points, but also +20% build time.",Structure !Wonder,0,200,0,60
+Equine Transports,achae,Phoenician Triremes gain the ability to train Cavalry.,,0,300,300,60
+Great King's Levy,achae,+10% maximum population limit.,,0,0,0,0
+Immortals,achae,Immortals -50% training time.,Immortal,200,0,200,60
+Subterranean Aqueducts,achae,Ice House +1 trickle food rate per second.,IceHouse,0,300,0,40
+Unlock Champion Chariots,"achae, brit, maur, sele",Unlock Champion Chariots at the Stable.,,600,0,0,60
+Phoenician Naval Tradition,"achae, cart",Ships +10% movement speed.,Ship,200,200,0,40
+Archery Tradition,"achae, kush, maur",Archers +10 attack range.,Archer,400,0,200,40
+Nisean War Horses,"achae, sele","Champion Cavalry Spearmen +10% health, but +10% training time.",Champion Cavalry Spearman,400,0,200,60
+Arsenal of Philon,athen,Warships +1 health/second self-repair rate.,Warship,0,300,0,40
+Athenian Long Walls,athen,Build Walls in own or neutral territory.,Wall,0,0,0,60
+Delian League,athen,Ships -25% construction time.,Ship,0,0,0,0
+Iphicratean Reforms,athen,Athenian Docks and Triremes can train Marines and Cretan Mercenary Archers.,,200,0,200,30
+Ostracism,athen,"Citizen soldiers +5% health, but Heroes -40% health.",,300,0,300,60
+Pheidian Workshop,athen,Temples and Wonder -50% stone cost and build time.,"Temple, Wonder",0,0,0,40
+Undergirding Cables,"athen, cart, mace, rome, spart",Arrow Ships and Ramming Ships +20% health.,"ArrowShip, NavalRam",0,0,400,40
+Hellenic Architecture,"athen, mace, spart",Structures +10% health and +10% capture points.,Structure !Wonder,0,0,0,0
+Hoplite Tradition,"athen, spart","Hoplites -25% training time, -50% promotion experience, and +10% health.",Infantry Spearman !Hero,400,0,300,60
+Woad Warriors,brit,"All Infantry Units +5% movement speed, and gain +1 loot taking.",Infantry,0,0,0,0
+Wooden Construction,"brit, gaul","Structures -20% build time, -20% health, and -20% capture points.",Structure !Wonder,0,0,0,0
+Reinforced Hull,"brit, gaul, iber","Ships +25% health, but -10% speed.",Ship,0,300,200,50
+Celtic Auxiliaries,cart,Mercenaries -50% metal cost but +50 food cost.,Mercenary Swordsman,0,0,550,45
+Colonization,cart,"Civic Structures (Civic Center, Temples, and Houses) -25% build time and resource costs.",Civic,0,200,200,20
+Servants,cart,Workers +25% stone gather rate.,Worker,0,0,0,0
+Triple Walls,cart,"City Walls +200% health, but +100% build time and stone cost.",Wall,0,0,0,0
+Exploration,"cart, han",Traders and Ships +20% vision range.,"Trader, Ship",100,0,100,40
+Harvesting Machine,gaul,Workers +10% grain gather rate.,Worker,0,200,100,50
+Superior Cavalry,gaul,Cavalry +10% melee attack damage.,Cavalry !Hero,0,0,0,0
+Bovine Tradition,germ,Civilians +100% meat gather rate.,Civilian,0,0,0,0
+Cimbrian Caravans,germ,Civilians +0.5 movement speed.,Civilian,0,0,0,0
+Grove of Fetters,germ,"Unlock the Human Sacrifice aura for the Seeress, doubling aura damage. Priests and Seeresses +50% Health.",,0,600,300,40
+Migratory Resettlement,germ,All Structures except for walls do not decay to neutral or enemy territory.,Structure !Wall,0,200,200,40
+Wagon Trains,germ,Supply Wagons +5 population space and Wagon Encampments +10 population space.,,0,400,100,40
+Chain Pump,han,Workers +20% grain gather rate.,Worker,0,400,300,60
+Crossbow Training,han,Crossbow Infantry -20% train time.,Crossbowman,400,400,0,40
+Efficient Bureaucracy,han,Ministers -50% train time.,Minister,100,100,0,40
+Federated States,han,+10% maximum population limit.,,0,0,0,0
+Great Wall,han,City Walls +50% health.,Wall,0,0,0,0
+Improved Construction,han,All structures -10% build time and -10% cost.,Structure,0,100,0,40
+Intensive Training,han,Ministers +50% health.,Minister,100,100,0,40
+Poison Arrows,han,Ranged Soldiers +20% attack damage.,Soldier,1200,0,1200,50
+Poison Blades,han,Melee Soldiers +20% attack damage.,Soldier,1200,1200,0,50
+Robust Architecture,han,All structures +20% health.,Structure,0,100,0,40
+Seed Drill,han,Workers +20% grain gather rate.,Worker,0,200,100,40
+Silk Road,han,Traders +20% international trade bonus.,Trade,500,500,0,50
+Sun Tzu The Art of War,han,All Citizen-Soldiers -20% required promotion experience.,,1200,0,1200,50
+Water Weeding,han,Workers +20% grain gather rate.,Worker,0,300,200,50
+Steel Working,"iber, maur",Soldiers +20% melee attack damage. Swordsmen get an additional +20% bonus.,Soldier !Elephant,500,0,400,60
+Flaming Projectiles,kush,Ranged Warships +10% attack damage.,Ranged Warship,0,400,300,40
+Monumental Architecture,kush,"Civic Structures +20% build time, +20% health, and +20% capture points.",Civic,0,0,0,60
+Resource-Rich Economy,mace,Storehouse technologies -100% research time.,Storehouse,0,0,0,0
+Silver Shields Regiment,mace,"Upgrade Shield Bearer Champion Infantry to Silver Shields, with more health and attack damage.",Champion Infantry,0,0,600,60
+Hellenistic Metropolis,"mace, ptol, sele","Civic Centers +100% health and capture points, double default arrows.",CivCentre !Colony !Naval,0,0,500,60
+Ahimsa,maur,"Units +100% fruit gather rate, but -80% meat and fish gather.",Unit,0,100,0,40
+Elephant Tradition,maur,Elephants -30% training time.,Elephant !Hero,0,0,0,0
+Emperor of Emperors,maur,+10% maximum population limit.,,0,0,0,0
+Wicker Baskets,maur,Workers +50% fruit gather rate.,Worker,0,100,0,40
+Wooden Walls,maur,City Walls -20% build time and -20% health.,Wall,0,0,0,0
+Fertilizer,ptol,Workers +20% grain gather rate.,Worker,0,400,300,60
+Gather Training,ptol,Workers +20% grain gather rate.,Worker,0,300,200,50
+Juggernauts,ptol,"Warships +25% health, but -10% speed.",Warship,0,500,300,40
+Pharaonic Cult,ptol,Heroes +2 health/second self-regen rate.,Hero,300,0,200,50
+Serapis Cult,ptol,+2.0 metal trickle per second.,Player,300,0,300,60
+Sun-dried Mud Bricks,ptol,"Houses and Economic Structures -40% wood cost, health, and capture points as well as +50% build time.","Economic !CivCentre !Naval, House",0,0,0,0
+Legionary Engineers,rome,Siege Catapults and Onagers 10% faster fire rate and +20% movement speed.,StoneThrower,0,0,0,0
+Marian Reforms,rome,"Convert Infantry to Marian Legionaries, and cavalry to Auxiliaries, and citizen spearmen to conscript infantry. Unlock Onagers and Centurions.","Structure, Soldier !Auxiliary",1000,0,800,60
+Roman Roads,rome,All Land Units +5% movement speed.,Unit !Ship,0,0,0,60
+Fertile Crescent,sele,Farms -25% wood cost and -75% build time.,Field,0,0,0,0
+Parade of Daphne,sele,Champions -20% training time.,Champion,500,0,300,60
+Reform Army,sele,Unlock the Champion Infantry Swordsman.,,0,0,0,0
+Traditional Army,sele,Unlock the Champion Infantry Pikeman.,,0,0,0,0
+Helot Economy,spart,"Infantry Javelineers +100% grain gather rate, but -10% ranged attack pierce damage.",Infantry Javelineer,200,200,0,40
+Krypteia,spart,"Champion Hoplites +10% melee attack damage, but Citizen Infantry Javelineers +30% training time.",,200,0,200,50
+The Agoge,spart,"Champion Hoplites +25% health, but +5% training time.",Champion Infantry Spearman,500,0,200,60
+Tyrtean Paeans,spart,Champion Hoplites +10% movement speed.,Champion Melee Infantry !Hero,200,0,100,30
+Unlock Neodamodes,spart,Unlock the ability to train Spearman Neodamodes at the Barracks.,,500,0,0,60
