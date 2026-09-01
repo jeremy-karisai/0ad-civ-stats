@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
-"""Rebuild data/0AD_civ_strengths.xlsx from data/sheets/*.csv."""
+"""Rebuild data/0AD_civ_strengths.xlsx from data/sheets/*.csv or *.csv.gz.b64."""
 
+from __future__ import annotations
+
+import base64
+import gzip
+from io import BytesIO
 from pathlib import Path
 
 import pandas as pd
@@ -43,12 +48,16 @@ TITLES = {
 }
 
 
-def load_sheet(src, key):
+def load_sheet(src: Path, key: str):
     fp = src / f"{key}.csv"
+    packed = src / f"{key}.csv.gz.b64"
     p1 = src / f"{key}_part1.csv"
     p2 = src / f"{key}_part2.csv"
     if fp.exists():
         return pd.read_csv(fp)
+    if packed.exists():
+        raw = gzip.decompress(base64.b64decode(packed.read_text().strip()))
+        return pd.read_csv(BytesIO(raw))
     if p1.exists() and p2.exists():
         return pd.concat([pd.read_csv(p1), pd.read_csv(p2)], ignore_index=True)
     return None
